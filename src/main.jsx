@@ -10,9 +10,9 @@ createRoot(document.getElementById('root')).render(
         alignItems: "center",
         justifyContent: "center",
         height: "100vh",
-        fontFamily: "sans-serif",
+        placeContent: "center",
         textAlign: "center",
       }}>
-      <App/>
+        <App/>
     </div>
 )
